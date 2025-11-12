@@ -19,7 +19,7 @@ The API serves as the foundation for future mobile integration (iOS/Swift fronte
 ## 🛠️ Technologies Used
 - **Node.js** & **TypeScript**
 - **LoopBack 4 Framework**
-- **SQLite** (or PostgreSQL)
+- **PostgreSQL**
 - **npm**
 - **Visual Studio Code**
 
