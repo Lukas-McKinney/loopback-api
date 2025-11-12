@@ -9,7 +9,7 @@ The API serves as the foundation for future mobile integration (iOS/Swift fronte
 
 ## 🧩 Features
 - CRUD endpoints for a sample entity (e.g., `Friend` model)  
-- Local SQLite database connection  
+- Local PostgreSQL database connection  
 - API Explorer interface (`/explorer`)  
 - REST conventions and schema validation  
 - Organized structure generated using `@loopback/cli`
